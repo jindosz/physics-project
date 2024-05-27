@@ -1,1 +1,7 @@
-
+종료는 alt + F4로
+esc = reset
+r = force reverse
+w, ↑ = angle up
+s, ↓ = angle down
+d, → = force up
+a, ← = force down
